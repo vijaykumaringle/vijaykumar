@@ -1,0 +1,18 @@
+.main {
+    background-color: aqua;
+}
+
+.title {
+    font-size: 2em;
+    color: brown;
+    background-color: azure;
+    height: 400px;
+    width: 100%;
+}
+
+.body-content {
+    background-color: blueviolet;
+    color: aquamarine;
+    height: 800px;
+    width: 100%;
+}
